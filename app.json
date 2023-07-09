@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "expo-bare-maps",
+    "slug": "expo-bare-maps",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.faeyan.expobaremaps",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCdAkf2Kq8mnPLi7jgobP4Pax9zJ-VtoSs"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fdcd6dd9-32bf-49b6-9cb1-fe826963b660"
+      }
+    }
+  }
+}
