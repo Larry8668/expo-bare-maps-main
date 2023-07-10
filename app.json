@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-bare-maps",
-    "slug": "expo-bare-maps",
+    "name": "tess-mobile",
+    "slug": "tess-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.faeyan.expobaremaps",
+      "package": "com.l_arry.tessmobil",
       "config": {
         "googleMaps": {
           "apiKey": "AIzaSyCdAkf2Kq8mnPLi7jgobP4Pax9zJ-VtoSs"
